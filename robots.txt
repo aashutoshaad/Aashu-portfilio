@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aashutoshadhikari.com.np/sitemap.xml
